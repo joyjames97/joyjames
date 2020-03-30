@@ -269,14 +269,15 @@ a:hover {
 }
 
 .socials .ico-circle {
-  height: 40px;
-  width: 40px;
+  height: 60px;
+  width: 60px;
   font-size: 1.7rem;
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
   box-shadow: 0 0 0 3px #973cbf;
   transition: all 500ms ease;
+  padding: 10px;
 }
 
 .socials .ico-circle:hover {
@@ -300,7 +301,7 @@ a:hover {
 }
 
 .list-ico {
-  line-height: 2;
+  line-height: 3;
 }
 
 .list-ico span {
