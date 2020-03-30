@@ -229,7 +229,7 @@ a:hover {
   margin-bottom: 3rem;
 }
 
-.title-left {
+.title-left, .title-center {
   font-size: 2rem;
   position: relative;
 }
